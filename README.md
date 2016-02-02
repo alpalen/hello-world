@@ -3,4 +3,5 @@ a hello-world project
 
 This is to make it different from the master. 
 
-Print "fuck cory"
+print "fuck cory"
+print "fuck cory"
